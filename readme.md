@@ -33,4 +33,4 @@ For this lab, we will gather the data from 3 _csv_ files that are provided in th
   - Delete the column education and the number of open complaints from the dataframe.
   - Correct the values in the column customer lifetime value. They are given as a percent, so divide them by 100 and change `dtype` to `numerical` type.
   - Check for duplicate rows in the data and remove if any.
-  - Filter out the data for customers who have an income of 0 or less.
+  - Filter out the data for customers who have an income of 0 or less. (MEANS ELIMINATE ITEMS WITH INCOME 0 OR LESS)
